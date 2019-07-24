@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "31185191145",
+    "firebase_url": "https://charlesfirebaseapp.firebaseio.com",
+    "project_id": "charlesfirebaseapp",
+    "storage_bucket": "charlesfirebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31185191145:android:df54280d99c418d6",
+        "android_client_info": {
+          "package_name": "com.example.charlesfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31185191145-j8bungdquhmf7ksdve7m0a3vitodl03d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.charlesfirebaseapp",
+            "certificate_hash": "39b5ea867c0a166a84ecc4780cd450c6c26fb8d8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBihBFwU9NhSuc27BxhK0Wv25lrPPYTLeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31185191145-3op7uv54aeog31a059js4sl56o71aooh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
